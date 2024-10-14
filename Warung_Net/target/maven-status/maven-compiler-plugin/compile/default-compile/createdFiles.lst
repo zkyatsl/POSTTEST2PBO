@@ -1,0 +1,8 @@
+model\VIPUser.class
+model\RegularUser.class
+model\CRUDOperations.class
+model\UserManager.class
+model\Computer.class
+com\mycompany\warung_net\Main.class
+model\ComputerManager.class
+model\User.class
